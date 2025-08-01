@@ -1,16 +1,24 @@
-## Hi there 👋
+# Enica King ⋅˚₊‧ ଳ ‧₊
 
-<!--
-**enicaking/enicaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Data Science Major*
 
-Here are some ideas to get you started:
+ 
+University Charles III of Madrid
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+𖡡 Av. de la Universidad 30, 28911 Leganés (Madrid) 
+
+ ## Education
+
+- 2022.9-*Present* Bachelor's Degree in Data Science with a minor in Biomedical Engineering, UC3M School of Engineering
+- 2023.9-2024.5 Exchange Student, University of Alaska Fairbanks
+
+ ## Research Interests
+
+- Bioinformatics
+- Green Engineering
+
+ ## Skills
+
+- Natural Language: English (Native); Spanish (Native); Tagalog (Native); French (B2); Mandarin (HSK2)
+- Programming Language: Python; R; MATLAB; JavaScript; HTML
+- Typesetting Language: LaTeX; Markdown; CSS
