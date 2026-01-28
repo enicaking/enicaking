@@ -15,12 +15,10 @@ University Charles III of Madrid
  ## Research Interests
 
 - Bioinformatics
-- Green Engineering
+- Neural Networks: Variational Autoencoders
 
  ## Skills
 
-- Natural Language: English (Native); Spanish (Native); Tagalog (Native); French (B2); Mandarin (HSK2)
+- Language: English (Native); Spanish (Native); Tagalog (Native); French (B2); Mandarin (HSK2); German (A1)
 - Programming Language: Python; R; MATLAB; JavaScript; HTML
 - Typesetting Language: LaTeX; Markdown; CSS
-
-[![roadmap.sh](https://roadmap.sh/card/wide/688b66fb087fc9883f5fd914?variant=dark&roadmaps=python%2Cgit-github)](https://roadmap.sh)
